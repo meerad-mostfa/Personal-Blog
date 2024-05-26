@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Be Vietnam Pro;
+    font-style: normal;
+    /*للخط  */
+}
+
+a {
+    text-decoration-line: none;
+}
